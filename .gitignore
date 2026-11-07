@@ -1,0 +1,6 @@
+pycache/
+*.pyc
+.codeartsdoer/
+.merkle-snapshot.json
+.env
+*.db
